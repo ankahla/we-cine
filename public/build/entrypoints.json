@@ -1,0 +1,21 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.js",
+        "/build/vendors-node_modules_autocomplete_js_dist_autocomplete_jquery_js-node_modules_bootstrap_dist_-72533e.js",
+        "/build/app.js"
+      ]
+    },
+    "style": {
+      "js": [
+        "/build/runtime.js",
+        "/build/style.js"
+      ],
+      "css": [
+        "/build/vendors-node_modules_bootstrap_dist_css_bootstrap_css-node_modules_font-awesome_css_font-awes-58315c.css",
+        "/build/style.css"
+      ]
+    }
+  }
+}
